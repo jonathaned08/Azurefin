@@ -1,0 +1,9 @@
+python-dotenv
+google-generativeai
+streamlit
+transformers 
+pillow 
+torch
+torchvision
+ultralytics
+accelerate
